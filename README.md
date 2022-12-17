@@ -1,1 +1,1 @@
-# ADL
+# Applied Deep Learning Project
